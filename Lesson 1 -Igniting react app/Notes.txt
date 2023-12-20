@@ -25,3 +25,4 @@ code
 * creates cache so the code runs fast for developing the code in local 
 *helps in images optimization
 *it is used in compressing the code and reduces the code 
+*helps in diagonosis and error handling
