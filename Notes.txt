@@ -1,0 +1,27 @@
+Igniting the project ::
+
+package.json::
+*package.json is use to view and add the dependences
+
+^(carrot)::
+*used to upgrade an minor upgrade in the dependencies
+
+~(tildorg)::
+*used to upgrade only when an major upgrade like 2->3 come then only the dependences will get updated
+
+package-lock::
+*used to store an copy of the exact same version which we installed first
+*it does not update even when thw version in package.json upgrades
+
+
+npm & npx:
+*npm is for installation of dependences
+*npx is for running executing the code
+
+Parcel::
+*helps to create an dev build and local server
+*HMR-Hot Module Replacement used to reload the page as soon as we save the 
+code
+* creates cache so the code runs fast for developing the code in local 
+*helps in images optimization
+*it is used in compressing the code and reduces the code 
