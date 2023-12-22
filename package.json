@@ -2,18 +2,15 @@
   "name": "react",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "just"
+    "test": "just",
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Gurunath14/React.git"
   },
-  "keywords": [
-    "guru",
-    "hi"
-  ],
   "author": "Gurunath",
   "license": "ISC",
   "bugs": {
@@ -25,6 +22,8 @@
     "process": "^0.11.10"
   },
   "dependencies": {
-    "react": "^18.2.0"
+    "reacr": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

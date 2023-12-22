@@ -1,4 +1,4 @@
-Igniting the project ::
+Igniting the project (lesson1) ::
 
 package.json::
 *package.json is use to view and add the dependences
@@ -26,3 +26,17 @@ code
 *helps in images optimization
 *it is used in compressing the code and reduces the code 
 *helps in diagonosis and error handling
+
+
+laying foundation (lesson2)::
+
+Babel::
+*it is used to convert the jsx into js code which the browsers can understand
+*babel make react run in backend:
+jsx=>react.createElement=>reactelement-js object=>HTML element
+
+React functional component::
+*a function which returns an jsx code it is known as functional component
+
+component composion:
+*composing 2 component into a one another
